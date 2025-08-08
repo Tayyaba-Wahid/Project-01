@@ -1,3 +1,4 @@
+Collab notebook: https://colab.research.google.com/drive/1LUPdKYxECRiwvTfMXA6ee9AgK7WH9xE1
 # Project-01
 Inventory Management System.
 Features:-
